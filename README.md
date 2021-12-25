@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things software
 - 🌱 I’m currently learning react and solidity
 - 💞️ I’m looking to collaborate on web3 apps
-- 📫 How to reach me ___right here___
+- 📫 How to reach me : ___right here___
 
 <!---
 pallab/pallab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
