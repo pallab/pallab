@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pallab
 - 👀 I’m interested in all things software
-- 🌱 I’m currently learning react and solidity
-- 💞️ I’m looking to collaborate on web3 apps
+- 🌱 I’m currently learning rust
 - 📫 How to reach me : ___right here___
 
 <!---
